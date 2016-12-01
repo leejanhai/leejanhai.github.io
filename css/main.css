@@ -1019,7 +1019,7 @@ pre .javascript .function {
   line-height: 36px;
   font-size: 24px;
   font-weight: normal;
-  font-family: 'Lobster Two', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Helvetica Neue', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1107,7 +1107,7 @@ pre .javascript .function {
   opacity: 0;
 }
 .post-body {
-  font-family: 'Segoe UI Light', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Helvetica Neue', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 @media (max-width: 767px) {
   .post-body {
@@ -1372,7 +1372,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'Segoe UI Light', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Helvetica Neue', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1681,7 +1681,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6bc679;
+  background: #bd8340;
 }
 .links-of-blogroll {
   font-size: 13px;
