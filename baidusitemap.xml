@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/diary/silent-weekend.html</loc>
+    <lastmod>2016-12-06T03:03:20.774Z</lastmod>
+    <data>
+        <display>
+        <title>无语的周末</title>
+        <pubTime>2016-12-05T09:10:37.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="生活记录" url="http://yoursite.com/categories/diary/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/diary/goon-with-me.html</loc>
+    <lastmod>2016-12-01T09:54:00.514Z</lastmod>
+    <data>
+        <display>
+        <title>流水一样的第二天</title>
+        <pubTime>2016-12-01T09:10:37.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="生活记录" url="http://yoursite.com/categories/diary/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/diary/hello-world.html</loc>
+    <lastmod>2016-11-30T09:52:52.164Z</lastmod>
+    <data>
+        <display>
+        <title>懵懂着开始了</title>
+        <pubTime>2016-11-30T03:00:28.372Z</pubTime>
+        
+        <tag>第一次</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活记录" url="http://yoursite.com/categories/diary/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+</urlset>
